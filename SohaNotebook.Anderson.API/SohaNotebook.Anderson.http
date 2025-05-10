@@ -1,0 +1,6 @@
+@SohaNotebook.Anderson_HostAddress = http://localhost:5068
+
+GET {{SohaNotebook.Anderson_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
